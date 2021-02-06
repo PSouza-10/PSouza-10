@@ -14,32 +14,30 @@
    Bem vindo ao meu perfil, sou um desenvolvedor focado na web que adora criar sistemas e interfaces funcionais e intuitivas, além de aprender e aplicar novas tecnologias.
 </h3>
 <h2 align="center"> Tecnologias que uso com frequência</h2>
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code title="React"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+<code title="React"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="Node.js"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="Python"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="MongoDB"><img height="40" width="40" src="https://res.cloudinary.com/souzacloud/image/upload/v1612584495/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cbb3c6e9.4630661915541024757364_ishf5i.png" ></code>
 </p>
 <p align="center"> 
- <img  height="30" src="https://img.shields.io/badge/%20-React-00a5bf?style=flat-square" alt="React" />
-<img height="30" src="https://img.shields.io/badge/%20-NodeJS-6db500?style=flat-square" alt="Node.js" />
-<img height="30" src="https://img.shields.io/badge/%20-Python-yellow?style=flat-square" alt="Python" />
-<img height="30" src="https://img.shields.io/badge/%20-MongoDB-03961c?style=flat-square" alt="MongoDB" />
+ <img  height="35" width="80" src="https://img.shields.io/badge/%20-React-00a5bf?style=flat-square" alt="React" />
+<img height="35" width="80" src="https://img.shields.io/badge/%20-NodeJS-6db500?style=flat-square" alt="Node.js" />
+<img height="35" width="80" src="https://img.shields.io/badge/%20-Python-yellow?style=flat-square" alt="Python" />
+<img height="35" width="80" src="https://img.shields.io/badge/%20-MongoDB-03961c?style=flat-square" alt="MongoDB" />
 </p>
 <h2 align="center"> Tecnologias e linguagens que já usei ou tenho interesse</h2>
-<p align="left">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<code title="C++"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>&nbsp;
-  <code title="PHP"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" ></code>&nbsp;
+<p align="center">
+<code title="C++"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <code title="PHP"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="Flutter"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="PostgreSQL"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></code>
 </p>
 <p align="center"> 
- <img  height="30" src="https://img.shields.io/badge/%20-C++-006cbf?style=flat-square" alt="C++" />
-<img height="30" src="https://img.shields.io/badge/%20-PHP-8c9aff?style=flat-square" alt="PHP" />
-<img height="30" src="https://img.shields.io/badge/%20-Flutter-00a5bf?style=flat-square" alt="Flutter" />
-<img height="30" src="https://img.shields.io/badge/%20-PostgreSQL-006cbf?style=flat-square" alt="PostgreSQL" />
+ <img  height="35" width="80" src="https://img.shields.io/badge/%20-C++-006cbf?style=flat-square" alt="C++" />
+<img height="35" width="80" src="https://img.shields.io/badge/%20-PHP-8c9aff?style=flat-square" alt="PHP" />
+<img height="35" width="80" src="https://img.shields.io/badge/%20-Flutter-00a5bf?style=flat-square" alt="Flutter" />
+<img height="35" width="90" src="https://img.shields.io/badge/%20-PostgreSQL-006cbf?style=flat-square" alt="PostgreSQL" />
 </p>
 <br />
 <p align="center">
