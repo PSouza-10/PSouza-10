@@ -18,7 +18,7 @@
 <code title="React"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="Node.js"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <code title="Python"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code title="MongoDB"><img height="40" width="40" src="https://res.cloudinary.com/souzacloud/image/upload/v1612584495/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cbb3c6e9.4630661915541024757364_ishf5i.png" ></code>
+  <code title="MongoDB"><img height="40" width="40" src="https://res.cloudinary.com/souzacloud/image/upload/c_scale,w_40/v1612584495/mongodb-logo.png.png" ></code>
 </p>
 <p align="center"> 
  <img  height="35" width="80" src="https://img.shields.io/badge/%20-React-00a5bf?style=flat-square" alt="React" />
