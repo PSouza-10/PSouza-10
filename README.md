@@ -48,10 +48,10 @@
  No momento estou :
 </h2>
 <ul align="center" style="list-style:dash;">
-  <h3>:weight_lifting: Desenvolvendo um site e aplicativo para um Personal Trainer</h3>
-  <h3>:brain: Aprendendo a utilizar Socket.io</h3>
-  <h3>:star_struck: Ansioso para iniciar Trabalho de Conclusão de Curso</h3>
-  <h3>:thinking: Pensando em criar um site de contato</h3>
+  <h3>Desenvolvendo um site e aplicativo para um Personal Trainer</h3>
+  <h3>Aprendendo a utilizar Socket.io</h3>
+  <h3>Ansioso para iniciar Trabalho de Conclusão de Curso</h3>
+  <h3>Pensando em criar um site de contato</h3>
 </ul>
 
 
