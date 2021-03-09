@@ -42,6 +42,10 @@
 <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PSouza-10&show_icons=true&theme=dracula&hide=prs,issues" alt="Minhas estatísticas como desenvolvedor" />
+  </p>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSouza-10&layout=compact&theme=dracula" alt="Minhas estatísticas como desenvolvedor" />
+  
 </p>
 <br />
 <h2 align="center">
