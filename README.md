@@ -53,9 +53,8 @@
 </h2>
 <ul align="center" style="list-style:dash;">
   <h3>Desenvolvendo um site e aplicativo para um Personal Trainer</h3>
-  <h3>Aprendendo a utilizar Socket.io</h3>
-  <h3>Ansioso para iniciar Trabalho de Conclusão de Curso</h3>
-  <h3>Pensando em criar um site de contato</h3>
+  <h3>Criando uma interface de configuração de modelos de Machine Learning com electron </h3>
+  <h3>Desenvolvendo meu site pessoal</h3>
 </ul>
 
 
