@@ -52,9 +52,9 @@
  No momento estou :
 </h2>
 <ul align="center" style="list-style:dash;">
-  <h3>Desenvolvendo um site e aplicativo para um Personal Trainer</h3>
-  <h3>Criando uma interface de configuração de modelos de Machine Learning com electron </h3>
-  <h3>Desenvolvendo meu site pessoal</h3>
+  <h3>Desenvolvendo uma dashboard para uma representante comercial do ramo de materiais de construção</h3>
+  
+  <h3>Desenvolvendo uma rede social de artistas para o TCC</h3>
 </ul>
 
 
