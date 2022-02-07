@@ -26,19 +26,8 @@
 <img height="35" width="80" src="https://img.shields.io/badge/%20-Python-yellow?style=flat-square" alt="Python" />
 <img height="35" width="80" src="https://img.shields.io/badge/%20-MongoDB-03961c?style=flat-square" alt="MongoDB" />
 </p>
-<h2 align="center"> Tecnologias e linguagens que já usei ou tenho interesse</h2>
-<p align="center">
-<code title="C++"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code title="PHP"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code title="Flutter"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" ></code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <code title="PostgreSQL"><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" ></code>
-</p>
-<p align="center"> 
- <img  height="35" width="80" src="https://img.shields.io/badge/%20-C++-006cbf?style=flat-square" alt="C++" />
-<img height="35" width="80" src="https://img.shields.io/badge/%20-PHP-8c9aff?style=flat-square" alt="PHP" />
-<img height="35" width="80" src="https://img.shields.io/badge/%20-Flutter-00a5bf?style=flat-square" alt="Flutter" />
-<img height="35" width="90" src="https://img.shields.io/badge/%20-PostgreSQL-006cbf?style=flat-square" alt="PostgreSQL" />
-</p>
+
+
 <br />
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PSouza-10&show_icons=true&theme=dracula&hide=prs,issues" alt="Minhas estatísticas como desenvolvedor" />
@@ -47,15 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSouza-10&layout=compact&theme=dracula" alt="Minhas estatísticas como desenvolvedor" />
   
 </p>
-<br />
-<h2 align="center">
- No momento estou :
-</h2>
-<ul align="center" style="list-style:dash;">
-  <h3>Desenvolvendo uma dashboard para uma representante comercial do ramo de materiais de construção</h3>
-  
-  <h3>Desenvolvendo uma rede social de artistas para o TCC</h3>
-</ul>
 
 
 ## Me chame a qualquer momento!
